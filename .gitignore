@@ -1,0 +1,7 @@
+# Simulation outputs
+sim.vvp
+*.vcd
+
+# Object files
+*.o
+*.out
